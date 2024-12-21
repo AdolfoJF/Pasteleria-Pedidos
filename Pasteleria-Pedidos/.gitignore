@@ -1,0 +1,15 @@
+# Archivos y carpetas de configuración del IDE
+*.idea/
+*.vscode/
+*.iml
+
+# Archivos compilados
+*.class
+*.jar
+
+# Dependencias locales
+/target/
+/out/
+
+# Otros
+.DS_Store
